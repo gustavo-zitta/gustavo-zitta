@@ -1,6 +1,6 @@
 
 ## Hey, I'm Gustavo Zitta
-        I'm a data science student
+### I'm a data science student
 
 
 - 🔭 I’m currently working on **Computer vision** project
