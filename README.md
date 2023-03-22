@@ -32,6 +32,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" alt="php" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/oracle/oracle-original.svg" alt="php" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/gustavo-zitta-681706208/" width="45" height="45"/>
-
+<br>        
+<br>
+        <br>        
+<br>
+        <br>        
+<br>
 So, I'm listening that...
+
+        
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5ugrybhd6ehw86ny1tw2c6eas&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
