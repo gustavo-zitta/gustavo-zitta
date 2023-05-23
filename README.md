@@ -13,7 +13,8 @@
 
 - 🥽 Some projects of mine are on [**kaggle**](https://www.kaggle.com/zittagustavo/code)
 
-- ⚡ Fun fact: I started learning about Neural Networks because I LOVE to understand how the brain works
+- ⚡ Fun fact: I started learning about Neural Networks because I LOVE to understand how the brain works and found out it has nothing to do with it 
+
 
 
 
